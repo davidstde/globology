@@ -1,0 +1,67 @@
+# A
+afghanistan
+armenia
+azerbaijan
+# B
+bahrain
+bangladesh
+bhutan
+brunei
+# C
+cambodia
+china
+cyprus
+# E
+east_timor
+egypt
+# G
+georgia
+# I
+india
+indonesia
+iran
+iraq
+israel
+# J
+japan
+jordan
+# K
+kazakhstan
+kuwait
+kyrgyzstan
+# L
+laos
+lebanon
+# M
+malaysia
+maldives
+mongolia
+myanmar
+# N
+nepal
+# O
+oman
+# P
+pakistan
+philippines
+# Q
+qatar
+# R
+russia
+# S
+saudi_arabia
+singapore
+sri_lanka
+syria
+# T
+tajikistan
+thailand
+turkey
+turkmenistan
+# U
+uae
+uzbekistan
+# V
+vietnam
+# Y
+yemen
